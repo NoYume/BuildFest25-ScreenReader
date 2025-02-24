@@ -1,0 +1,7 @@
+.env
+.book_text.txt
+current_page.png
+total_book_text.txt
+.venv/
+audio
+images
